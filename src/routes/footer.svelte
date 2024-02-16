@@ -3,7 +3,7 @@
 </script>
 
 <footer>
-    <p>{config.title}</p> &copy {new Date().getFullYear}
+    <p>{config.title}</p> &copy {new Date().getFullYear()}
 </footer>
 
 

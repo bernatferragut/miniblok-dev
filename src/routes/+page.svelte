@@ -1,5 +1,5 @@
 <section>
-	<code>HOME</code>
+	<code>MAIN</code>
 </section>
 
 <style>
