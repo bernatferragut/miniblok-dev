@@ -32,6 +32,7 @@
     }
 
     a {
+        font-size: var(--size-3);
         color: inherit;
         text-decoration: none;
     }
@@ -48,6 +49,5 @@
             gap: var(--size-7);
             margin-block: 0;
         }
-
     }
 </style>

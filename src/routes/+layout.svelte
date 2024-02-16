@@ -1,10 +1,10 @@
 <script>
     import Header from './header.svelte'
     import Footer from './footer.svelte';
-
     import 'open-props/style'
     import 'open-props/normalize'
     import 'open-props/buttons'
+    import '../app.css'
 </script>
 
 
@@ -23,7 +23,7 @@
         height: 100%;
         max-inline-size: 1440px;
         display: grid;
-        grid-template-columns: auto 1fr auto;
+        grid-template-rows: auto 1fr auto;
         margin-inline: auto;
         padding-inline: var(--size-7);
     }

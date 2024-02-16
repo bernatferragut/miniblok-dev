@@ -1,4 +1,4 @@
-/* @import '@fontsource/silkscreen';
+@import '@fontsource/silkscreen';
 @import '@fontsource/jetbrains-mono';
 
 
@@ -9,7 +9,7 @@ html {
 
 	/* dark */
 	--brand-dark: var(--orange-3);
-	--text-1-dark: var(--gray-3);
+	--text-1-dark: var(--gray-1);
 	--text-2-dark: var(--gray-5);
 	--surface-1-dark: var(--gray-12);
 	--surface-2-dark: var(--gray-11);
@@ -132,4 +132,4 @@ li {
 .surface-4 {
 	background-color: var(--surface-4);
 	color: var(--text-1);
-} */
+}

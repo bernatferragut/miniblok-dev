@@ -3,7 +3,7 @@
 </script>
 
 <footer>
-    <p>{config.title}</p> &copy {new Date().getFullYear()}
+    <p>{config.title} &copy {new Date().getFullYear()}</p> 
 </footer>
 
 
@@ -15,6 +15,7 @@
 
     p {
         color: var(--text-2);
+        font-size: var(--size-3);
     }
 
 </style>
