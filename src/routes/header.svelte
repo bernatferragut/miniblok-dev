@@ -37,6 +37,10 @@
         text-decoration: none;
     }
 
+    b {
+        font-size: var(--size-4);
+    }
+
     @media (min-width: 768px) {
         nav {
             display: flex;

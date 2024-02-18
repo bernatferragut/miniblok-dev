@@ -1,0 +1,54 @@
+---
+title: Minting NFTs on the solana network
+description: Bitcoin Art on the blockchain
+date: '2024-16-02'
+categories: 
+    - NFT
+    - Blockchain
+publihed: true
+preview: "./assets/bloks/blok02.svg"
+---
+
+
+<a href="https://hash-love.surge.sh/">![The Book of the Lover and the Beloved Hashed](/assets/images/art/LOVE/day84.jpeg)</a>
+
+# Preface: The Book of the Lover and the Beloved Hashed 
+
+Visit this link daily to meditate on these eternal poems about love: 
+> <a href="https://hash-love.surge.sh/"><span style="color:#ff597d">=> The Book of the Lover and the Beloved Hashed Website </span></a>
+
+MORE than six centuries have passed since this little Majorcan classic was written, and it has never once been translated into English. Such an omission can only be explained by our comparative ignorance of the treasures of Spanish Mysticism, and perhaps in part by the fact that Lull wrote, not in Castilian, but in a little-known though beautiful idiom, that of Catalonia.
+
+THE average man has seldom understood the Mystic. He conceives the Mystic Life, with its ceaseless spiritual activity, and its restlessness which knows no stay till it reaches its goal, as a life of tranquillity, if not of indolence and ease. He has no conception of what it really is, and for that, perhaps, he should not be blamed. But not content with misinterpreting the mystic’s life, he presently becomes more daring; he asserts that mysticism is essentially ‘unpractical,’ and that one whose aim is to reach the state of Union with God must necessarily be as a fool in his relations with the world. Here the average man is grossly, inexcusably mistaken. His error has again and again been exposed, confuted, disproved by example after example to the contrary. Yet, for all that, it seems to thrive in the average mind.
+
+Now, if the story of one man’s career could suffice to destroy the mistaken idea that the mystic is an unpractical dreamer, that man would surely be the Majorcan Ramón Lull, the ‘Apostle of Africa.’ Lull lived far back in the thirteenth century, not long after the days of St. Francis of Assisi, whose disciple he was. He gives us, as it were, a prevision of the splendours of that Golden Age of Mysticism which dawned for Spain three hundred years after his birth. His mystic writings—and especially his BOOK OF THE LOVER AND THE BELOVED are full of the purest and noblest spirituality, compounded with the quintessence of love. ‘If ye will have fire,’ he cries, ‘O ye that love, come light your lanterns at my heart.’ His famous phrase, ‘He who loves not lives not,’ sums up his inspiration. Yet Lull was no cloistered visionary. His life is full of romance and adventure: so crowded with incident is it that many pages will not suffice even to summarise its principal happenings. His capacities showed the rare combination of scholar and man of affairs: he was both these, and he was also the man of God. To the service of his Master, for Whom alone he lived, and for Whom he died, Lull was able to bring the full and complete tribute of an efficient and active body, a superb mind, and an ardent, unconquerable spirit.
+
+"E. ALLISON PEERS"
+
+<a href="https://hash-love.surge.sh/">![The Book of the Lover and the Beloved Hashed](/assets/images/art/LOVE/day1.jpeg)</a>
+
+# What is a Hash Function?
+
+Hashing is mapping data of any length to a fixed-length output using an algorithm. Typically, the hashing algorithm most people know of is SHA-2 or SHA-256. That’s because it’s the current standard for SSL encryption.
+
+The purpose of hashing is authentication. And to illustrate this, we’ll use an example.
+
+Let’s say I’m sending you a message and you want to ensure that what you’re receiving is what I intended. Or to put it another way, you want to make sure that the message hasn’t been altered. To do this, I’m going to send you the message, then I’m going to send you a hash value and the algorithm I used to hash it. An algorithm is really just a set of steps or procedures. So I send you a message and the hash value. When you receive the message, you’re going to re-hash it to see what value it produces. If the values are the same, then the message hasn’t been tampered with.
+
+Keep in mind, no two pieces of data can produce the same output. If they do, this is called a collision and the algorithm is deemed unsafe. Google did this in 2017 to prove that SHA-1 was unsafe. That’s why we now use SHA-2 (also known as SHA-256, for the length of its output – 256 characters long).
+
+Hashing is essentially a one-way function. It’s technically possible, but at this point infeasible to reverse a hash.
+
+All the 366 poems have been hashed and are available one per each day of the year here:
+
+> <a href="https://hash-love.surge.sh/"><span style="color:#ff597d">=> The Book of the Lover and the Beloved Hashed Website </span></a>
+
+<a href="https://hash-love.surge.sh/">![The Book of the Lover and the Beloved Hashed](/assets/images/art/LOVE/day2.jpeg)</a>
+
+# More about Ramon Llull and Hash Functions
+
+> * [The Book of the Lover and Beloved by Ramon Llull](https://www.gutenberg.org/files/60704/60704-h/60704-h.htm)
+
+> * [Understanding Hash Functions](https://www.thesslstore.com/knowledgebase/ssl-support/understanding-hash-functions/)
+
+> * [Programmers Don’t Understand Hash Functions](https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/)

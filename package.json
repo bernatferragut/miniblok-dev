@@ -27,6 +27,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@fontsource-variable/roboto-mono": "^5.0.17",
 		"@fontsource/jetbrains-mono": "^5.0.18",
 		"@fontsource/outfit": "^5.0.8",
 		"@fontsource/silkscreen": "^5.0.18",
