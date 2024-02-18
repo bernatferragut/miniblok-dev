@@ -1,12 +1,12 @@
 ---
-title: Minting NFTs on the solana network
-description: Bitcoin Art on the blockchain
-date: '2024-16-02'
+title: Hashing 366 Love Poems
+description: ❒ BL0K 04
+date: '2021-12-31'
 categories: 
     - NFT
     - Blockchain
 publihed: true
-preview: "./assets/bloks/blok02.svg"
+preview: "./assets/bloks/blok04.svg"
 ---
 
 

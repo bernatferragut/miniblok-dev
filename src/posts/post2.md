@@ -1,7 +1,7 @@
 ---
-title: Minting NFTs on the solana network
-description: Bitcoin Art on the blockchain
-date: '2024-16-02'
+title: NFT Art on the Blockchain 
+description: ❒ BL0K 02
+date: '2021-08-23'
 categories: 
     - NFT
     - Blockchain

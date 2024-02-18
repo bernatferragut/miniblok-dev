@@ -1,12 +1,12 @@
 ---
-title: Minting NFTs on the solana network
-description: Bitcoin Art on the blockchain
-date: '2024-16-02'
+title: Tokens as Web3 Atomic Units
+description: ❒ BL0K 05
+date: '2022-04-06'
 categories: 
     - NFT
     - Blockchain
 publihed: true
-preview: "./assets/bloks/blok02.svg"
+preview: "./assets/bloks/blok05.svg"
 ---
 
 ![Tokens-Intro](/assets/images/art/TOKENS/Tokens-title.png)

@@ -1,12 +1,12 @@
 ---
-title: Minting NFTs on the solana network
-description: Bitcoin Art on the blockchain
-date: '2024-16-02'
+title: Seed Phrase Mnemonics
+description: ❒ BL0K 03
+date: '2021-10-22'
 categories: 
     - NFT
     - Blockchain
 publihed: true
-preview: "./assets/bloks/blok02.svg"
+preview: "./assets/bloks/blok03.svg"
 ---
 
 ![Hardware wallet-mnemonic seed phrase](/assets/images/art/SEEDS/0.png)

@@ -1,7 +1,7 @@
 ---
-title: Computational thinking origins
-description: A course in Generative Art
-date: '2024-14-02'
+title: Computational thinking visionaries
+description: ❒ BL0K 01
+date: '2019-11-12'
 categories: 
     - computational thinking
     - design
@@ -14,7 +14,7 @@ preview: "./assets/bloks/blok01.svg"
 # The Art of Thinking
 The outstanding Catalan philosopher and theologian Ramon Llull (c.1232–1316) encourages us to reread the late Middle Ages. Llull, not only theoretically and linguistically invented a new method of knowledge acquisition, like an engineer, he also mechanized it, and translated it into a machine.
 
-## [=> ARS INFUSA WEBSITE](https://ars-infusa.surge.sh/)
+ [ARS INFUSA WEBSITE](https://ars-infusa.surge.sh/)
 
 ## Ars Combinatoria
 Llull’s ars combinatoria was a method based on divine intuition for generating truths by means of a logical algebraic language. The method Llull invented was universal in its aspiration and, introduced a modern way of learning. It postulated the unity of the various disciplines of knowledge of his day, and through deduction, argumentation, and dialogue.
@@ -29,7 +29,9 @@ Building the Llullian figures with javascript code creates a rather original mix
 
 I hope you like try to use it…and as Leibniz ( Llull’s fan ) use to say … let’s compute with Llull again.
 
-## [=> GITHUB REPO LINK](https://github.com/bernatferragut/LLULL-Ars)
+[GITHUB REPO LINK](https://github.com/bernatferragut/LLULL-Ars)
+
+&nbsp;
 
 <iframe src="https://preview.p5js.org/bernatferragut/embed/HkO4HfkAX" style="height: 500px; width: 800px; border: none"></iframe>
 

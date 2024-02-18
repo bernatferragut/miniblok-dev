@@ -1,12 +1,12 @@
 ---
-title: Minting NFTs on the solana network
-description: Bitcoin Art on the blockchain
-date: '2024-16-02'
+title: BTC goes Carbon negative
+description: ❒ BL0K 06
+date: '2022-11-18'
 categories: 
     - NFT
     - Blockchain
 publihed: true
-preview: "./assets/bloks/blok02.svg"
+preview: "./assets/bloks/blok06.svg"
 ---
 
 ![BTC-Intro](/assets/images/art/CH4/CH4.jpeg)

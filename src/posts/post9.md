@@ -1,12 +1,12 @@
 ---
-title: Minting NFTs on the solana network
-description: Bitcoin Art on the blockchain
-date: '2024-16-02'
+title: Private | Public Key 101
+description: ❒ BL0K 09
+date: '2024-02-12'
 categories: 
     - NFT
     - Blockchain
 publihed: true
-preview: "./assets/bloks/blok02.svg"
+preview: "./assets/bloks/blok09.svg"
 ---
 
 ![Tokens-Intro](/assets/images/art/TOKENS/Tokens-title.png)

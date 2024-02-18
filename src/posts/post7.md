@@ -1,12 +1,12 @@
 ---
-title: Minting NFTs on the solana network
-description: Bitcoin Art on the blockchain
-date: '2024-16-02'
+title: Rethinking DeFi Values
+description: ❒ BL0K 07
+date: '2023-12-10'
 categories: 
     - NFT
     - Blockchain
 publihed: true
-preview: "./assets/bloks/blok02.svg"
+preview: "./assets/bloks/blok07.svg"
 ---
 
 ![DeFI](/assets/images/art/values/Main.png)

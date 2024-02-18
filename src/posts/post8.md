@@ -1,12 +1,12 @@
 ---
-title: Minting NFTs on the solana network
-description: Bitcoin Art on the blockchain
-date: '2024-16-02'
+title: Hash Functions 101
+description: ❒ BL0K 08
+date: '2024-02-01'
 categories: 
     - NFT
     - Blockchain
 publihed: true
-preview: "./assets/bloks/blok02.svg"
+preview: "./assets/bloks/blok08.svg"
 ---
 
 ![Tokens-Intro](/assets/images/art/TOKENS/Tokens-title.png)
