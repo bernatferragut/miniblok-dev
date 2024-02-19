@@ -1,5 +1,6 @@
 <script>
     import * as config from '$lib/config'
+    import '@fontsource/jetbrains-mono';
 </script>
 
 <nav>
@@ -24,14 +25,17 @@
 
 <style>
     nav {
+        
         padding-block: var(--size-7);
     }
 
     .links {
+        
         margin-block: var(--size-7);
     }
 
     a {
+        
         font-size: var(--size-3);
         color: inherit;
         text-decoration: none;

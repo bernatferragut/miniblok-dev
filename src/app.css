@@ -5,7 +5,7 @@
 html {
 	/* font */
 	--font-sans: 'Silkscreen', sans-serif;
-	--font-mono: 'JetBrains Mono', monospace;
+	/* --font-mono: 'JetBrains Mono', monospace; */
 
 	/* dark */
 	--brand-dark: var(--orange-3);
