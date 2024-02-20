@@ -3,17 +3,17 @@ title: Seed Phrase Mnemonics
 description: ❒ BL0K 03
 date: '2021-10-22'
 categories: 
-    - NFT
+    - Security
     - Blockchain
 publihed: true
 preview: "./assets/bloks/blok03.svg"
 ---
 
-![Hardware wallet-mnemonic seed phrase](/assets/images/art/SEEDS/0.png)
+![Hardware wallet-mnemonic seed phrase](/assets/images/art/SEEDS/D.svg)
 
 # Introduction to the security of cryptocurrencies
 This has been the major problem to be solved by the entire crypto community since its inception. 
-> <span style="color:#ff597d">=> How to securely store the private keys that allow access to your cryptocurrencies ? </span>
+> <span style="color:#ff597d">How to securely store the private keys that allow access to your cryptocurrencies ? </span>
 
 Initially there were paper wallets that one could print and store, then physical wallets appeared opening the creation of new models for manufacturers to create and store your private keys securely outside the Internet.
 
@@ -62,7 +62,7 @@ const A =  [
 
 # Remembering the 24 words
 
-![Hardware wallet-mnemonic seed phrase](/assets/images/art/SEEDS/B.png)
+![Hardware wallet-mnemonic seed phrase](/assets/images/art/SEEDS/E.svg)
 
 Once these 6 images -objects- containing 4 words have been created, they will be saved under a letter each one of them.
 
@@ -72,19 +72,17 @@ To recall them just think of the letter and a vivid image will appear automatica
 
 This is the best way to store this type of information. With just a little practice one can be sure no matter what happens the keys are safe.
 
-> <span style="color:#ff597d">=>Not your keys</span>
+> <span style="color:#ff597d">Not your keys</span>
 
-> <span style="color:#ff597d">=>Not your crypto</span>
+> <span style="color:#ff597d">Not your crypto</span>
 
 I hope you will find this system useful, __just by practicing you will be able to see how it works easily in less than 24 hours.__
-
-![Hardware wallet-mnemonic seed phrase](/assets/images/art/SEEDS/C.png)
 
 
 # More information about 24 Words Seed Phrases
 
-> * [How to generate / create own custom 24 word mnemonic seed phrases](https://allprivatekeys.com/mnemonic-code-converter)
+> * [How to generate | Create own custom 24 word mnemonic seed phrases](https://allprivatekeys.com/mnemonic-code-converter)
 
-> * [What is a Recovery Phrase? / Ledger](https://www.ledger.com/academy/crypto/what-is-a-recovery-phrase)
+> * [What is a Recovery Phrase? | Ledger](https://www.ledger.com/academy/crypto/what-is-a-recovery-phrase)
 
-> * [What is a Seed Phrase? / Coinmarketcap](https://coinmarketcap.com/alexandria/glossary/seed)
+> * [What is a Seed Phrase? | Coinmarketcap](https://coinmarketcap.com/alexandria/glossary/seed)

@@ -3,7 +3,7 @@ title: Tokens as Web3 Atomic Units
 description: ❒ BL0K 05
 date: '2022-04-06'
 categories: 
-    - NFT
+    - Tokens
     - Blockchain
 publihed: true
 preview: "./assets/bloks/blok05.svg"

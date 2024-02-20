@@ -31,7 +31,6 @@ I hope you like try to use it…and as Leibniz ( Llull’s fan ) use to say … 
 
 [GITHUB REPO LINK](https://github.com/bernatferragut/LLULL-Ars)
 
-&nbsp;
 
 <iframe src="https://preview.p5js.org/bernatferragut/embed/HkO4HfkAX" style="height: 500px; width: 800px; border: none"></iframe>
 
@@ -54,4 +53,4 @@ In the Name of the holy and undivided Trinity and of its Divine Dignities, here 
 
 > Visit the micro-site if you want to know more…
 
-## [=> ARS INFUSA WEBSITE](https://ars-infusa.surge.sh/)
+## [=> ARS INFUSA WEBSITE ](https://ars-infusa.surge.sh/)

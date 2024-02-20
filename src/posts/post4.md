@@ -3,19 +3,17 @@ title: Hashing 366 Love Poems
 description: ❒ BL0K 04
 date: '2021-12-31'
 categories: 
-    - NFT
+    - Digital Art
     - Blockchain
 publihed: true
 preview: "./assets/bloks/blok04.svg"
 ---
-
-
-<a href="https://hash-love.surge.sh/">![The Book of the Lover and the Beloved Hashed](/assets/images/art/LOVE/day84.jpeg)</a>
+![Tokens-Intro](/assets/images/art/LOVE/day84.jpeg)
 
 # Preface: The Book of the Lover and the Beloved Hashed 
 
 Visit this link daily to meditate on these eternal poems about love: 
-> <a href="https://hash-love.surge.sh/"><span style="color:#ff597d">=> The Book of the Lover and the Beloved Hashed Website </span></a>
+> <a href="https://hash-love.surge.sh/"><span style="color:#ff597d">Hashed Love Poems Website</span></a>
 
 MORE than six centuries have passed since this little Majorcan classic was written, and it has never once been translated into English. Such an omission can only be explained by our comparative ignorance of the treasures of Spanish Mysticism, and perhaps in part by the fact that Lull wrote, not in Castilian, but in a little-known though beautiful idiom, that of Catalonia.
 
@@ -25,7 +23,7 @@ Now, if the story of one man’s career could suffice to destroy the mistaken id
 
 "E. ALLISON PEERS"
 
-<a href="https://hash-love.surge.sh/">![The Book of the Lover and the Beloved Hashed](/assets/images/art/LOVE/day1.jpeg)</a>
+![Tokens-Intro](/assets/images/art/LOVE/day1.jpeg)
 
 # What is a Hash Function?
 
@@ -41,11 +39,11 @@ Hashing is essentially a one-way function. It’s technically possible, but at t
 
 All the 366 poems have been hashed and are available one per each day of the year here:
 
-> <a href="https://hash-love.surge.sh/"><span style="color:#ff597d">=> The Book of the Lover and the Beloved Hashed Website </span></a>
+> <a href="https://hash-love.surge.sh/"><span style="color:#ff597d">Hashed Love Poems Website</span></a>
 
-<a href="https://hash-love.surge.sh/">![The Book of the Lover and the Beloved Hashed](/assets/images/art/LOVE/day2.jpeg)</a>
+![Tokens-Intro](/assets/images/art/LOVE/day2.jpeg)
 
-# More about Ramon Llull and Hash Functions
+### More about Ramon Llull and Hash Functions
 
 > * [The Book of the Lover and Beloved by Ramon Llull](https://www.gutenberg.org/files/60704/60704-h/60704-h.htm)
 
