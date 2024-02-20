@@ -9,13 +9,10 @@
 
     <ul class="links">
         <li>
-            <a href="/about">READ</a>
+            <a href="/about">ABOUT</a>
         </li>
         <li>
-            <a href="/contact">ABOUT</a>
-        </li>
-        <li>
-            <a href="/contact">CONTACT</a>
+            <a href="/contact" class="mail">CONTACT</a>
         </li>
     </ul>
 
@@ -25,9 +22,10 @@
     nav {
         font-family: 'Silkscreen', system-ui;
         color: #FCCC8E;
-        padding-block: 2rem
+        padding-block: 1rem ;
+        border-bottom: 1px solid;
     }
-
+    
     .links {
         margin-block: 3rem;
     }

@@ -16,7 +16,7 @@
 <style>
     footer {
         font-family: 'Silkscreen', system-ui;
-        padding-block: 50px ;
+        padding-block: 1rem ;
         border-top: 1px solid;
         display: flex;
         justify-content: space-between;

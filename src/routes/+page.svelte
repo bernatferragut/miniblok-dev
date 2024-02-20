@@ -45,7 +45,7 @@
 	}
 
 	.post {
-		max-inline-size: 100%;
+		max-inline-size: 90%;
 		font-size: 1rem;
 		list-style-type: none;
 		margin: 0 auto;
