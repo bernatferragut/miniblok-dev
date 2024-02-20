@@ -1,6 +1,5 @@
 <script>
     import * as config from '$lib/config'
-    import '@fontsource/jetbrains-mono';
 </script>
 
 <nav>
@@ -10,51 +9,51 @@
 
     <ul class="links">
         <li>
-            <a href="/about">About</a>
+            <a href="/about">READ</a>
         </li>
         <li>
-            <a href="/contact">Contact</a>
-        </li>
-        <li>
-            <a href="/rss.xml" target="_blank">RSS</a>
+            <a href="/contact">ABOUT</a>
         </li>
     </ul>
 
-    <button>Toggle</button>
+    <button>Contact</button>
 </nav>
 
 <style>
     nav {
-        
-        padding-block: var(--size-7);
+        font-family: 'Silkscreen', system-ui;
+        color: #FCCC8E;
+        padding-block: 2rem
     }
 
     .links {
-        
-        margin-block: var(--size-7);
+        margin-block: 3rem;
     }
 
+    ul {
+        list-style-type: none;
+    }
+
+
     a {
-        
-        font-size: var(--size-3);
-        color: inherit;
+        font-size: 1rem;
+        /* color: #FCCC8E; */
         text-decoration: none;
     }
 
     b {
-        font-size: var(--size-4);
+        font-size: 1rem;
     }
 
     @media (min-width: 768px) {
         nav {
             display: flex;
             justify-content: space-between;
-
         }
 
         .links {
             display: flex;
-            gap: var(--size-7);
+            gap: 1rem;
             margin-block: 0;
         }
     }

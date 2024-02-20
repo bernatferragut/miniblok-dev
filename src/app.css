@@ -1,120 +1,223 @@
-@import '@fontsource/silkscreen';
-@import '@fontsource/jetbrains-mono';
 
 
-html {
-	/* font */
-	--font-sans: 'Silkscreen', sans-serif;
-	/* --font-mono: 'JetBrains Mono', monospace; */
-
-	/* dark */
-	--brand-dark: var(--orange-3);
-	--text-1-dark: var(--gray-1);
-	--text-2-dark: var(--gray-5);
-	--surface-1-dark: var(--gray-12);
-	--surface-2-dark: var(--gray-11);
-	--surface-3-dark: var(--gray-10);
-	--surface-4-dark: var(--gray-9);
-	--background-dark: var(--gradient-8);
-	--border-dark: var(--gray-9);
-
-	/* light */
-	/* --brand-light: var(--orange-10);
-	--text-1-light: var(--gray-8);
-	--text-2-light: var(--gray-7);
-	--surface-1-light: var(--gray-0);
-	--surface-2-light: var(--gray-1);
-	--surface-3-light: var(--gray-2);
-	--surface-4-light: var(--gray-3);
-	--background-light: none;
-	--border-light: var(--gray-4); */
-}
-
-:root {
-	color-scheme: dark;
-
-	--brand: var(--brand-dark);
-	--text-1: var(--text-1-dark);
-	--text-2: var(--text-2-dark);
-	--surface-1: var(--surface-1-dark);
-	--surface-2: var(--surface-2-dark);
-	--surface-3: var(--surface-3-dark);
-	--surface-4: var(--surface-4-dark);
-	--background: var(--background-dark);
-	--border: var(--border-dark);
-}
-
-/* @media (prefers-color-scheme: light) {
-	:root {
-		color-scheme: light;
-
-		--brand: var(--brand-light);
-		--text-1: var(--text-1-light);
-		--text-2: var(--text-2-light);
-		--surface-1: var(--surface-1-light);
-		--surface-2: var(--surface-2-light);
-		--surface-3: var(--surface-3-light);
-		--surface-4: var(--surface-4-light);
-		--background: var(--background-light);
-		--border: var(--border-light);
+@media print {
+	*,
+	*:before,
+	*:after {
+	  background: transparent !important;
+	  color: #000 !important;
+	  box-shadow: none !important;
+	  text-shadow: none !important;
 	}
-}
+  
+	a,
+	a:visited {
+	  text-decoration: underline;
+	}
+  
+	a[href]:after {
+	  content: " (" attr(href) ")";
+	}
+  
+	abbr[title]:after {
+	  content: " (" attr(title) ")";
+	}
+  
+	a[href^="#"]:after,
+	a[href^="javascript:"]:after {
+	  content: "";
+	}
+  
+	pre,
+	blockquote {
+	  border: 1px solid #999;
+	  page-break-inside: avoid;
+	}
+  
+	thead {
+	  display: table-header-group;
+	}
+  
+	tr,
+	img {
+	  page-break-inside: avoid;
+	}
+  
+	img {
+	  max-width: 100% !important;
+	}
+  
+	p,
+	h2,
+	h3 {
+	  orphans: 3;
+	  widows: 3;
+	}
+  
+	h2,
+	h3 {
+	  page-break-after: avoid;
+	}
+  }
+  
+  pre,
+  code {
+	font-family: Menlo, Monaco, "Courier New", monospace;
+  }
+  
+  pre {
+	padding: .5rem;
+	line-height: 1.25;
+	overflow-x: scroll;
+  }
+  
+  a,
+  a:visited {
+	color: #FCCC8E;
+  }
+  
+ a:hover {
+	color: #fefefe;
+  }
 
-[color-scheme='dark'] {
-	color-scheme: dark;
-
-	--brand: var(--brand-dark);
-	--text-1: var(--text-1-dark);
-	--text-2: var(--text-2-dark);
-	--surface-1: var(--surface-1-dark);
-	--surface-2: var(--surface-2-dark);
-	--surface-3: var(--surface-3-dark);
-	--surface-4: var(--surface-4-dark);
-	--background: var(--background-dark);
-	--border: var(--border-dark);
-}
-
-[color-scheme='light'] {
-	color-scheme: light;
-
-	--brand: var(--brand-light);
-	--text-1: var(--text-1-light);
-	--text-2: var(--text-2-light);
-	--surface-1: var(--surface-1-light);
-	--surface-2: var(--surface-2-light);
-	--surface-3: var(--surface-3-light);
-	--surface-4: var(--surface-4-light);
-	--background: var(--background-light);
-	--border: var(--border-light);
-} */
-
-html,
-body {
-	height: 100%;
-}
-
-a:visited {
-	color: hex(#ffc078);
-	text-decoration-color: hex(#ffc078);
-}
-
-html {
-	color: var(--text-1);
-	accent-color: var(--link);
-	background-image: var(--background);
-	background-attachment: fixed;
-}
-
-img {
-	border-radius: var(--radius-3);
-}
-
-ul,
-ol {
-	list-style: none;
-	padding: 0;
-}
-
-li {
-	padding-inline-start: 0;
-}
+  a:active {
+	color: #FCCC8E;
+  }
+  
+  .modest-no-decoration {
+	text-decoration: none;
+  }
+  
+  html {
+	font-size: 12px;
+  }
+  
+  @media screen and (min-width: 32rem) and (max-width: 48rem) {
+	html {
+	  font-size: 15px;
+	}
+  }
+  
+  @media screen and (min-width: 48rem) {
+	html {
+	  font-size: 16px;
+	}
+  }
+  
+  body {
+	line-height: 1.85;
+  }
+  
+  p,
+  .modest-p {
+	font-size: 1rem;
+	margin-bottom: 1.3rem;
+  }
+  
+  h1,
+  .modest-h1,
+  h2,
+  .modest-h2,
+  h3,
+  .modest-h3,
+  h4,
+  .modest-h4 {
+	margin: 1.414rem 0 .5rem;
+	font-weight: inherit;
+	line-height: 1.42;
+  }
+  
+  h1,
+  .modest-h1 {
+	margin-top: 0;
+	font-size: 3.998rem;
+  }
+  
+  h2,
+  .modest-h2 {
+	font-size: 2.827rem;
+  }
+  
+  h3,
+  .modest-h3 {
+	font-size: 1.999rem;
+  }
+  
+  h4,
+  .modest-h4 {
+	font-size: 1.414rem;
+  }
+  
+  h5,
+  .modest-h5 {
+	font-size: 1.121rem;
+  }
+  
+  h6,
+  .modest-h6 {
+	font-size: .88rem;
+  }
+  
+  small,
+  .modest-small {
+	font-size: .707em;
+  }
+  
+  /* https://github.com/mrmrs/fluidity */
+  
+  img,
+  canvas,
+  iframe,
+  video,
+  svg,
+  select,
+  textarea {
+	max-width: 100%;
+  }
+  
+  @import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);
+  
+  @import url(http://fonts.googleapis.com/css?family=Arimo:700,700italic);
+  
+  html {
+	font-size: 18px;
+	max-width: 100%;
+  }
+  
+  body {
+	color: #444;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 300;
+	margin: 0 auto;
+	max-width: 48rem;
+	line-height: 1.45;
+	padding: .25rem;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+	font-family: Arimo, Helvetica, sans-serif;
+  }
+  
+  h1,
+  h2,
+  h3 {
+	border-bottom: 2px solid #fafafa;
+	margin-bottom: 1.15rem;
+	padding-bottom: .5rem;
+	text-align: center;
+  }
+  
+  blockquote {
+	border-left: 8px solid #fafafa;
+	padding: 1rem;
+  }
+  
+  pre,
+  code {
+	background-color: #fafafa;
+  }

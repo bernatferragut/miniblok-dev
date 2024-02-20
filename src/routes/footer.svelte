@@ -1,5 +1,6 @@
 <script>
     import * as config from '$lib/config'
+    import '@fontsource/silkscreen';
 </script>
 
 <footer>
@@ -9,13 +10,15 @@
 
 <style>
     footer {
-        padding-block: var(--size-7) ;
-        border-top: 1px solid var(--border);
+        font-family: 'Silkscreen', system-ui;
+        color: #FCCC8E;
+        padding-block: 50px ;
+        border-top: 1px solid;
     }
 
     p {
-        color: var(--text-2);
-        font-size: var(--size-3);
+        color: #FCCC8E;
+        font-size: 0.9rem;
     }
 
 </style>
