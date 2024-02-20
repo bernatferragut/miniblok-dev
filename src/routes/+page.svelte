@@ -31,55 +31,54 @@
 
 <style>
 
-	/* section {
-		font-family: var(--font-mono);
-	} */
-
-	.cards {
-  		display: grid;
-  		grid-template-columns: repeat(3, 1fr); /* you can change 1fr to whatever you want, 200px for example*/
-  		gap: 2rem;
+	section {
+		font-family: 'Silkscreen', system-ui;
+        color: #FCCC8E;
+        padding-block: 10px ;
+		/* background-color: black; */
 	}
 
-	.card {
-  		border: 1px solid red;
-  		min-height: 200px;
-	}
 	.posts {
 		display: grid;
-		gap: var(--size-7);
+		gap: 2rem;
 		
 	}
 
 	.post {
-		max-inline-size: var(--size-content-3);
-		font-size: var(--font-size-fluid-0);
-		/* margin: 0 auto; */
+		max-inline-size: 100%;
+		font-size: 1rem;
+		list-style-type: none;
+		margin: 0 auto;
 		
 	}
 
 	.post:not(:last-child) {
-		border-bottom: 1px solid var(--border);
-		padding-bottom: var(--size-5);
+		border-bottom: 1px solid;
+		padding-bottom: 10px;
 	}
 
 	.title {
-		font-size: var(--size-3);
+		color: #ffc078;
+		font-size: 1rem;
 		text-transform: capitalize;
 	}
 
+	a {
+		text-decoration-color: currentcolor;
+	}
+	
 	a:visited {
 		color: hex(#ffc078);
 		text-decoration-color: hex(#ffc078);
 	}
 
 	.date {
-		font-size: var(--font-size-fluid-0);
-		color: var(--text-2);
+		font-size: 1rem;
+		color: #ffc078;
 	}
 
 	.description {
-		margin-top: var(--size-3);
-		font-size: var(--font-size-fluid-0);
+		margin-top: 1rem;
+		font-size: 1rem;
 	}
 </style>

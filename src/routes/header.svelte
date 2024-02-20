@@ -14,9 +14,11 @@
         <li>
             <a href="/contact">ABOUT</a>
         </li>
+        <li>
+            <a href="/contact">CONTACT</a>
+        </li>
     </ul>
 
-    <button>Contact</button>
 </nav>
 
 <style>
@@ -37,8 +39,7 @@
 
     a {
         font-size: 1rem;
-        /* color: #FCCC8E; */
-        text-decoration: none;
+        text-decoration-color: inherit;
     }
 
     b {

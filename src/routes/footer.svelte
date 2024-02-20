@@ -11,7 +11,6 @@
 <style>
     footer {
         font-family: 'Silkscreen', system-ui;
-        color: #FCCC8E;
         padding-block: 50px ;
         border-top: 1px solid;
     }
