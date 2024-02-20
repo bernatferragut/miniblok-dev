@@ -4,6 +4,7 @@ description: ❒ BL0K 09
 date: '2024-02-12'
 categories: 
     - Blockchain
+    - Cryptography
 publihed: true
 preview: "./assets/bloks/blok09.svg"
 ---

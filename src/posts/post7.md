@@ -3,7 +3,7 @@ title: Rethinking DeFi Values
 description: ❒ BL0K 07
 date: '2023-12-10'
 categories: 
-    - NFT
+    - DeFi
     - Blockchain
 publihed: true
 preview: "./assets/bloks/blok07.svg"

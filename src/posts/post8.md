@@ -3,7 +3,7 @@ title: Hash Functions 101
 description: ❒ BL0K 08
 date: '2024-02-01'
 categories: 
-    - NFT
+    - Cryptography
     - Blockchain
 publihed: true
 preview: "./assets/bloks/blok08.svg"
