@@ -4,7 +4,7 @@
 </script>
 
 <nav>
-    <a href="/" class="title">
+    <a href="https://miniblok.surge.sh/" class="title">
         <b>{config.title}</b>
     </a>
 
