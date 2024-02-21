@@ -1,5 +1,6 @@
 <script>
     import * as config from '$lib/config'
+    export const prerender = true
 </script>
 
 <nav>

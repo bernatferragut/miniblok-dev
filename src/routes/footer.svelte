@@ -1,6 +1,7 @@
 <script>
     import * as config from '$lib/config'
     import '@fontsource/silkscreen';
+    export const prerender = true
 </script>
 
 <footer>
